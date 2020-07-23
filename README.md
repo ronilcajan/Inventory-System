@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Ronil Cajan - [@RonCajan](https://twitter.com/RonCajan) - cajanr02@gmail.com
 
-Project Link: [https://github.com/ronilcajan/CLAIMS-Loan-Information-System](https://github.com/ronilcajan/CLAIMS-Loan-Information-System)
+Project Link: [https://github.com/ronilcajan/SimpleInventorySystem](https://github.com/ronilcajan/SimpleInventorySystem)
 
 
 ## Acknowledgments
