@@ -20974,7 +20974,7 @@ dl li {
 /* === Landing screens === */
 /* Auth */
 .auth .login-half-bg {
-  background: url("http://localhost/city_inventory/assets/images/oroq.png");
+  background: url("http://localhost/inventory/assets/images/is.png");
   background-size: cover;
   margin-top: -30px;
   padding-bottom: -100px;

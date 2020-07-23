@@ -60,9 +60,10 @@ class Delivery_model extends CI_Model {
     return $this->db->update('item', $data); 
   }
 
+
   public function get_delivery_item($id)
   {
-    $this->db->select('*');  
+    $this->db->select('*, delivery_item.quantity as qty');  
     $this->db->from('delivery_item, item'); 
     $this->db->where('delivery_item.item_no = item.item_no');
     $this->db->where('delivery_item.delivery_no', $id);
@@ -82,7 +83,7 @@ class Delivery_model extends CI_Model {
   public function view_delivery_item($data)
   {  
     $this->db->from('delivery_item, item');
-    $this->db->select('item.description, item.size, item.quantity, item.unit');  
+    $this->db->select('item.description, item.size, item.unit, delivery_item.quantity as qty');  
     $this->db->where('delivery_item.item_no = item.item_no'); 
     $this->db->where('delivery_no', $data); 
     return $this->db->get()->result_array();

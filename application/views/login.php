@@ -17,7 +17,7 @@
 	<!-- inject:css -->
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/majestic-style.css">
 	<!-- endinject -->
-	<link rel="shortcut icon" href='<?php echo base_url()?>images/is_icon.png'>
+	<link rel="shortcut icon" href='<?php echo base_url()?>images/icon.png'>
 </head>
 
 <body>

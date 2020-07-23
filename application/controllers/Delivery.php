@@ -47,6 +47,7 @@ class Delivery extends CI_Controller {
 
       $result = $this->delivery_model->delete_delivery($id);
 
+
       if($result){
 
         for ($i=0; $i < count($items['item']) ; $i++) {

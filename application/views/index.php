@@ -52,7 +52,7 @@
 									<p class="text-light mt-1 m-0">Users</p>
 								</div>
 								<div class="card-right float-right text-right">
-									<i class="icon   icon-lg animated wobble     fas fa-user"></i>
+									<i class="icon icon-lg animated wobble fas fa-user"></i>
 								</div>
 							</div>
 						</div>
@@ -112,7 +112,7 @@
 					<div class="col-lg-12"> 
 						<div class="card">
 							<div class="card-body text-center animated rubberBand  ">
-								<img width="500px;" src="<?php echo base_url() ?>assets/images/oroq1.png" alt="Dashboard Picture" sizes="" srcset="">
+								<img width="500px;" src="<?php echo base_url() ?>assets/images/is.png" alt="Dashboard Picture" sizes="" srcset="">
 							</div>
 						</div>
 					</div>

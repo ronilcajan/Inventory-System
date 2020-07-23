@@ -81,7 +81,7 @@
 						<td>
 							<input type="number" class="stock_quantity form-control" name="limit_quantity[]" value='.$dev_items['limit_quantity'].'>
 						</td>
-						<td><input min="1" type="number" class="form-control" name="quantity[]" value='.$dev_items['quantity'].'></td>';
+						<td><input min="1" type="number" class="form-control" name="quantity[]" value='.$dev_items['qty'].'></td>';
 
                     echo  '<td>
                           <select  data-row="row_id_'.$count.'"  class="form-control cat" name="category_id[]">

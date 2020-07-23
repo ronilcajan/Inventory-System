@@ -75,13 +75,13 @@
 							<div class="col-10">
 								<div class="row mb-4 mt-3">
 									<div class="col-4 text-right pr-0">
-										<img src="<?php echo base_url() ?>images/is_icon.png" alt="Logo" width="80" height="80">
+										<!-- <img src="<?php echo base_url() ?>images/is_icon.png" alt="Logo" width="80" height="80"> -->
 									</div>
 									<div class="col-4 mt-3">
 										<div class="text-center pl-0">
-											<h5>Office of the City Mayor</h5>
+											<!-- <h5>Office of the City Mayor</h5> -->
 											<h5 class="font-weight-bold" style="color:darkblue;">SUPPLIES REQUEST SLIP</h5>
-											<h5>Oroquieta City</h5>
+											<!-- <h5>Oroquieta City</h5> -->
 										</div>
 									</div>
 									<div class="col-3"></div>
